@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.00a280e8.css",
-    "main.js": "/static/js/main.8760db1b.js",
+    "main.css": "/static/css/main.b8f9056d.css",
+    "main.js": "/static/js/main.f6c6dda8.js",
     "static/js/787.c8001686.chunk.js": "/static/js/787.c8001686.chunk.js",
     "static/media/wheel.mp4": "/static/media/wheel.cc34994c8bfef15a8a73.mp4",
     "static/media/Aldi-Catalog.mp4": "/static/media/Aldi-Catalog.0ae94f0c2d08c7757806.mp4",
@@ -22,12 +22,12 @@
     "static/media/hh.png": "/static/media/hh.37fc2e506d0f726ca93b.png",
     "static/media/8thWall-logo.jpg": "/static/media/8thWall-logo.27f11d4ad6e35d0e1c89.jpg",
     "index.html": "/index.html",
-    "main.00a280e8.css.map": "/static/css/main.00a280e8.css.map",
-    "main.8760db1b.js.map": "/static/js/main.8760db1b.js.map",
+    "main.b8f9056d.css.map": "/static/css/main.b8f9056d.css.map",
+    "main.f6c6dda8.js.map": "/static/js/main.f6c6dda8.js.map",
     "787.c8001686.chunk.js.map": "/static/js/787.c8001686.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a280e8.css",
-    "static/js/main.8760db1b.js"
+    "static/css/main.b8f9056d.css",
+    "static/js/main.f6c6dda8.js"
   ]
 }
